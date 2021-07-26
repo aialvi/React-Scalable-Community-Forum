@@ -19,11 +19,11 @@ export const Landing = () => {
 
   return (
     <>
-      <Head description="Welcome to bulletproof react" />
+      <Head description="Welcome to MyForum" />
       <div className="bg-white h-[100vh] flex items-center">
         <div className="max-w-7xl mx-auto text-center py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
           <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            <span className="block">Bulletproof React</span>
+            <span className="block">MyForum</span>
           </h2>
           <img src={logo} alt="react" />
           <p>Showcasing Best Practices For Building React Applications</p>
